@@ -1,2 +1,1 @@
-# Background-changer_Project
-A bg-changer project using react.
+##A linear regression model based on heights anhd weights of some individuals,in Google Colab... 
