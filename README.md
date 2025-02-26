@@ -1,7 +1,7 @@
 ##A linear regression model based on heights anhd weights of some individuals,in Google Colab... 
 # Linear Regression Model: Height and Weight Prediction
 
-This project demonstrates the application of a linear regression model to predict the weight of individuals based on their height. The dataset consists of the heights and weights of several individuals, and the goal is to create a model that can predict weight from height.
+This project demonstrates the application of a linear regression model to predict the height of individuals based on their weight or vice-versa. The dataset consists of the heights and weights of several individuals, and the goal is to create a model that can predict weight from height.
 
 ## Project Overview
 
